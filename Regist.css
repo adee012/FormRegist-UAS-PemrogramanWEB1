@@ -1,0 +1,198 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html, body{
+    background-color: #C0C0C0 ;
+    font-family: Georgia;
+}
+
+.reg{
+    width: 800px;
+    
+    margin: auto;
+    color: #ffff;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.main{
+    background-color: #003333;
+    width: 800px;
+    margin: auto;
+    border-radius: 5%;
+}
+
+form{
+    padding: 10px;
+
+}
+
+#name{
+    width: 100%;
+    height: 100px;
+}
+
+.name{
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    color: #FFFF;
+    font-weight: 700;
+}
+
+.firstname{
+    position: relative;
+    left: 200px;
+    top:-37px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+
+.lastname{
+    position: relative;
+    left: 417px;
+    top: -80px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    color: #FFFF;
+}
+
+.firstlabel{
+    position: relative;
+    color: #FFFF;
+    text-transform: capitalize;
+    font-size: 14px;
+    left: 203px;
+    top: -45px;
+}
+
+.lastlabel{
+    position: relative;
+    color: #FFFF;
+    text-transform: capitalize;
+    font-size: 14px;
+    left: 492px;
+    top: -76px;
+}
+
+.company{
+    position: relative;
+    left: 200px;
+    top: -37px;
+    line-height: 40px;
+    width: 480px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    color: #FFFF;
+}
+
+.email{
+    position: relative;
+    left: 200px;
+    top: -37px;
+    line-height: 40px;
+    width: 480px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    color: #FFFF;
+}
+
+.code{
+    position: relative;
+    left: 200px;
+    top: -37px;
+    line-height: 40px;
+    width: 95px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    color: #FFFF;
+}
+
+.number{
+    position: relative;
+    left: 200px;
+    top: -37px;
+    line-height: 40px;
+    width: 255px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    color: #FFFF;
+}
+
+.area_code{
+    position: relative;
+    color: #FFFF;
+    text-transform: capitalize;
+    font-size:16px ;
+    left: 54px;
+    top: -4px;
+
+}
+
+.phone-number{
+    position: relative;
+    color: #FFFF;
+    text-transform: capitalize;
+    font-size:16px ;
+    left: -100px;
+    top: -2px;
+
+}
+
+.option{
+    position: relative;
+    left: 200px;
+    top: -37px;
+    line-height: 40px;
+    width: 532px;
+    height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    color: rgb(3, 3, 3);
+    outline: none;
+    overflow: hidden;
+}
+
+.option option{
+    font-size: 20px;
+}
+
+#coustomer{
+    margin-left: 25px;
+    color: #FFFF;
+    font-size: 18px;
+}
+
+button{
+    background-color: aquamarine;
+    display: block;
+    margin: 20px 0px 20px 0px;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid #F5DEB3;
+    padding: 14px 110px;
+    outline: none;
+    color:  black;
+    text-decoration: solid;
+    cursor: pointer;
+    transition: 0.25px;
+    font-size: 15px;
+}
+
+button:hover{
+    background-color: #F5DEB3;
+}
+
+
